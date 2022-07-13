@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AniBout-me/static/css/main.1c95a641.chunk.css",
+    "main.js": "/AniBout-me/static/js/main.2b955f5a.chunk.js",
+    "main.js.map": "/AniBout-me/static/js/main.2b955f5a.chunk.js.map",
+    "runtime-main.js": "/AniBout-me/static/js/runtime-main.0ff6d074.js",
+    "runtime-main.js.map": "/AniBout-me/static/js/runtime-main.0ff6d074.js.map",
+    "static/js/2.479b1ff0.chunk.js": "/AniBout-me/static/js/2.479b1ff0.chunk.js",
+    "static/js/2.479b1ff0.chunk.js.map": "/AniBout-me/static/js/2.479b1ff0.chunk.js.map",
+    "index.html": "/AniBout-me/index.html",
+    "precache-manifest.3667b143095a87b69ac31bd8fb91b4a9.js": "/AniBout-me/precache-manifest.3667b143095a87b69ac31bd8fb91b4a9.js",
+    "service-worker.js": "/AniBout-me/service-worker.js",
+    "static/css/main.1c95a641.chunk.css.map": "/AniBout-me/static/css/main.1c95a641.chunk.css.map",
+    "static/js/2.479b1ff0.chunk.js.LICENSE.txt": "/AniBout-me/static/js/2.479b1ff0.chunk.js.LICENSE.txt",
+    "static/media/welcome.css": "/AniBout-me/static/media/neurons.b544a9c9.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ff6d074.js",
+    "static/js/2.479b1ff0.chunk.js",
+    "static/css/main.1c95a641.chunk.css",
+    "static/js/main.2b955f5a.chunk.js"
+  ]
+}
